@@ -1,0 +1,13 @@
+
+UIKit
+
+Construct and manage a graphical, event-driven user interface for your ios or tvOS app.
+
+
+OverView
+
+The UIKit framework provides the required infrastucture for your iOS or tvOS apps,it provides the 
+window and view architecture for implementing your interface, the event handling infrastructure for 
+delivering Mulittouch and other types of input to  your app, and the main run loop needed to manage 
+interactions among the user, the system, and you app, Other features offered by the framework include
+animation support,document support, drawding and printing support information about the current d
